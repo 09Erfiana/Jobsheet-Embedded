@@ -1,0 +1,7 @@
+token : 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
+masukin tokennya kalo akun githubmu ke logout
+
+git add . 
+git commit -m "nama terserah"
+git pull origin master
+git push origin master
